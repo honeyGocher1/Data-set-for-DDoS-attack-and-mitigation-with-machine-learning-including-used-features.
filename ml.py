@@ -25,7 +25,7 @@ class MachineLearningAlgo:
         #self.clf = GaussianNB()   
 
         #Forests of randomized trees
-        self.clf = RandomForestClassifier(n_estimators=10)
+        #self.clf = RandomForestClassifier(n_estimators=10)
 
         #Extra Tree Classifier
         #self.clf = ExtraTreesClassifier(n_estimators=10, max_depth=None,min_samples_split=2, random_state=0)
